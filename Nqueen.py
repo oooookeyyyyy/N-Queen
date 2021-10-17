@@ -30,7 +30,7 @@ def add(l, c) :
             ln += 1
             cl -= 1
 
-table = int(input(' >>'))
+table = int(input('input Side length >>'))
 board = []
 stack = []
 spots = []
